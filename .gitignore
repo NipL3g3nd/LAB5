@@ -1,0 +1,7 @@
+# Ignores
+
+Calculator.csproj
+
+# Debug files ignore
+Calculator/bin/Debug
+Calculator/obj/Debug
